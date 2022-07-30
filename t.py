@@ -4,7 +4,6 @@ import time
 import numpy as np
 from PIL import Image
 import pandas as pd
-from plotly.subplots import make_subplots as ms
 import altair as alt
 from vega_datasets import data
  
