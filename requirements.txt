@@ -6,6 +6,7 @@ matplotlib.pyplot
 cufflinks
 plotly.graph_objects
 altair
-data
-Image
-make_subplots
+vega_datasets
+PIL
+plotly.subplots
+ctypes.wintypes
