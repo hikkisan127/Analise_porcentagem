@@ -2,9 +2,9 @@ streamlit
 numpy
 pandas
 time
-matplotlib
+matplotlib.pyplot
 cufflinks
-plotly
+plotly.graph_objects
 altair
 data
 Image
