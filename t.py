@@ -5,7 +5,6 @@ import numpy as np
 from PIL import Image
 import pandas as pd
 import altair as alt
-from vega_datasets import data
  
 image = Image.open('1.png')
 st.set_page_config(
