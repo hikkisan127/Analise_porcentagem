@@ -1,1 +1,12 @@
-
+streamlit
+numpy
+pandas
+time
+matplotlib.pyplot
+plotly.graph_objects
+cufflinks
+plotly.graph_objects
+altair
+data
+Image
+make_subplots
