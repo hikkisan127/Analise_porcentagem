@@ -1,12 +1,10 @@
-RGB
 streamlit
 time
 numpy
-matplotlib.pyplot
-Image
-plotly.graph_objects
+matplotlib
+Pillow
+plotly
 pandas
 cufflinks
-make_subplots
 altair
-data
+vega_datasets
