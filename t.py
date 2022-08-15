@@ -119,3 +119,13 @@ col = st.columns(2)
 
 col[0].plotly_chart(fig2)
 col[1].plotly_chart(fig3)
+
+teste = st.number_input(label='digite um número aleatório', value=0)
+teste2 = st.number_input(label='digite segundo número aleatório', value=0)
+teste3 = st.number_input(label='digite número aleatório diferente de zero', value=1)
+
+teste4 = (teste-teste2)(teste+teste2)/(teste3*teste3)
+
+st.write('foi feito o calculo meio complicado')
+
+st.write('resposta = ', teste4)
